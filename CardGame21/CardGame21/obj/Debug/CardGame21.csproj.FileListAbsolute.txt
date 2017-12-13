@@ -1,0 +1,7 @@
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\CardGame21\CardGame21\obj\Debug\CardGame21.csprojResolveAssemblyReference.cache
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\CardGame21\CardGame21\obj\Debug\CardGame21.csproj.CoreCompileInputs.cache
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\CardGame21\CardGame21\bin\Debug\CardGame21.exe.config
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\CardGame21\CardGame21\bin\Debug\CardGame21.exe
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\CardGame21\CardGame21\bin\Debug\CardGame21.pdb
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\CardGame21\CardGame21\obj\Debug\CardGame21.exe
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\CardGame21\CardGame21\obj\Debug\CardGame21.pdb
