@@ -1,0 +1,10 @@
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojResolveAssemblyReference.cache
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.frmScreenSaver.resources
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.Cache
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\ryan.archibald\Documents\Visual Studio 2017\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
